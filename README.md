@@ -28,6 +28,7 @@
 - Einführung von Gemeinwohlbilanzen für Unternehmen.
 - Förderung von Kooperativen, Sharing-Economy, solidarischer Landwirtschaft.
 - Bedingungsloses Grundeinkommen in Modellregionen testen.
+- Solidarische Crowd-Finanzierung innovativer Projekte wie Gesundheits-Start-ups über regionale Fonds.
 
 ---
 
@@ -46,6 +47,8 @@
 - Ethische Leitlinien für KI, Biotechnologie und Automatisierung.
 - Freie Zugänge zu Gesundheitsdaten, Forschung und Open-Source-Software.
 - Aufbau gemeinwohlorientierter digitaler Infrastrukturen.
+- Offene Sensornetzwerke für Klima- und Gesundheitsdaten als Frühwarnsysteme.
+- Modulare Microgrid-Bausteine für kommunale Infrastruktur-Hubs und Gesundheitszentren.
 
 ---
 
@@ -79,6 +82,9 @@
 - Mobile Solarkliniken für schwer erreichbare Regionen.
 - Regenwassermanagement und Energiespeicher an Gesundheitszentren.
 - Kooperative Transportnetzwerke für Medikamente und Material (z.B. per Lastenrad).
+- Bürgerbetriebene Infrastruktur-Hubs für lokale Energie- und Versorgungsnetze.
+- Hybrid-Solar-Wind-Microgrids an Gesundheitsstationen.
+- Regionale Datenplattformen für Klima- und Gesundheitsmonitoring.
 
 ---
 
@@ -98,3 +104,5 @@
 12. Offene Sensornetzwerke für Hitze- und Luftqualitätswarnungen einsetzen und mit Telemedizin verknüpfen.
 13. Kooperationen mit lokalen Bau- und Reparaturinitiativen für resilientere Infrastruktur fördern.
 14. Wiederverwendbare modulare Gebäudeelemente für Notfallkliniken entwickeln.
+15. Finanzierung innovativer Gesundheits-Start-ups über solidarische Crowdmodelle und regionale Fonds.
+16. Partnerschaften zwischen Universitäten und Kommunen für resiliente Bauweisen aufbauen.
