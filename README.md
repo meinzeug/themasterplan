@@ -76,6 +76,9 @@
 - Nutzung offener Gesundheitsplattformen aus dem Technologiekapitel für Telemedizin und Prävention.
 - Gemeinwohlorientierte Finanzierungsmodelle aus Kapitel 3 auf medizinische Einrichtungen anwenden.
 - Energieautarke Gesundheitsstationen mittels Microgrids (Kapitel 5) und kooperativer Finanzierung (Kapitel 3).
+- Mobile Solarkliniken für schwer erreichbare Regionen.
+- Regenwassermanagement und Energiespeicher an Gesundheitszentren.
+- Kooperative Transportnetzwerke für Medikamente und Material (z.B. per Lastenrad).
 
 ---
 
@@ -91,3 +94,7 @@
 8. Weitere Pilotprojekte: Hybrid-Solar-Wind-Microgrids für Gesundheitsstationen und gemeinwohlfinanzierte Telemedizin-Hubs in entlegenen Regionen.
 9. Aufbau regionaler Datenplattformen für Klima- und Gesundheitsmonitoring als Entscheidungsgrundlage für lokale Infrastruktur.
 10. Verzahnung der Gesundheitsstrategie mit Technologie- und Wirtschaftsmaßnahmen, etwa Microgrids und solidarische Finanzierungsmodelle für Telemedizin.
+11. Mobile Schulungszentren für digitale Gesundheitskompetenz in ländlichen Gebieten aufbauen.
+12. Offene Sensornetzwerke für Hitze- und Luftqualitätswarnungen einsetzen und mit Telemedizin verknüpfen.
+13. Kooperationen mit lokalen Bau- und Reparaturinitiativen für resilientere Infrastruktur fördern.
+14. Wiederverwendbare modulare Gebäudeelemente für Notfallkliniken entwickeln.
