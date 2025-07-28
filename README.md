@@ -73,6 +73,8 @@
 - Kostenfreier Basiszugang zu medizinischer Versorgung und Impfungen.
 - Globale Forschungsnetzwerke für offene Daten und schnelle Reaktionsstrategien.
 - Förderung lokaler Produktionskapazitäten für Medikamente und medizinische Ausrüstung.
+- Nutzung offener Gesundheitsplattformen aus dem Technologiekapitel für Telemedizin und Prävention.
+- Gemeinwohlorientierte Finanzierungsmodelle aus Kapitel 3 auf medizinische Einrichtungen anwenden.
 
 ---
 
@@ -82,3 +84,5 @@
 3. Aufbau eines transparenten, offenen Frameworks für Monitoring, Feedback und Weiterentwicklung.
 4. Einrichtung eines internationalen Gesundheitsfonds zur Unterstützung lokaler
    Präventions- und Forschungsprojekte.
+5. Pilotprojekte für klimaresiliente Gesundheits- und Infrastrukturzentren starten.
+6. Lokale Initiativen zu dezentraler Energie- und Wasserversorgung dokumentieren.
