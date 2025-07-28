@@ -1,5 +1,3 @@
 Auszuführen im nächsten Schritt:
 
-Baue vorhandene Ideen in README.md weiteraus.
-Nutze auch codex/daten/brain.md
-Wenn du fertig bist, erstelle dir in codex/daten/prompt.md den nächsten Prompt für dich selbst, zum weiterarbeiten im nächsten Schritt.
+Analysiere die Verzahnung von Technologie (Kapitel 5) und Gesundheitsversorgung (Kapitel 8). Entwickle ein kurzes Konzept für bürgerbetriebene Infrastruktur-Hubs und integriere es in das README. Ergänze danach im Abschnitt "Nächste Schritte" weitere Ideen zur solidarischen Finanzierung. Anschließend erstelle einen neuen Arbeitsauftrag in codex/daten/prompt.md.
