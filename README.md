@@ -82,9 +82,11 @@
 - Mobile Solarkliniken für schwer erreichbare Regionen.
 - Regenwassermanagement und Energiespeicher an Gesundheitszentren.
 - Kooperative Transportnetzwerke für Medikamente und Material (z.B. per Lastenrad).
-- Bürgerbetriebene Infrastruktur-Hubs für lokale Energie- und Versorgungsnetze.
+- Bürgerbetriebene Infrastruktur-Hubs für lokale Energie- und Versorgungsnetze, genossenschaftlich organisiert. Sie verbinden Microgrids, Telemedizin und lokale Bildungsangebote.
 - Hybrid-Solar-Wind-Microgrids an Gesundheitsstationen.
 - Regionale Datenplattformen für Klima- und Gesundheitsmonitoring.
+
+Die in Kapitel 5 beschriebenen Technologien – insbesondere Microgrids, offene Datenplattformen und Telemedizin – bilden das Rückgrat dieser Gesundheitsinitiative. Durch ihre Kombination entstehen bürgerbetriebene Infrastruktur-Hubs, die Energieversorgung, medizinische Dienste und Wissenstransfer lokal bündeln.
 
 ---
 
@@ -106,3 +108,5 @@
 14. Wiederverwendbare modulare Gebäudeelemente für Notfallkliniken entwickeln.
 15. Finanzierung innovativer Gesundheits-Start-ups über solidarische Crowdmodelle und regionale Fonds.
 16. Partnerschaften zwischen Universitäten und Kommunen für resiliente Bauweisen aufbauen.
+17. Lokale Bürgerfonds schaffen, über die Anwohner gemeinschaftlich in Infrastruktur-Hubs und Gesundheitsstationen investieren können.
+18. Digitale Beteiligungsplattformen einführen, die Mikrospenden und transparente Mittelverwendung ermöglichen.
