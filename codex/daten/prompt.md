@@ -1,3 +1,10 @@
-Für den nächsten Sprint:
-- Prüfen, wie die neue Gesundheitssektion mit den bestehenden technologischen und ökonomischen Kapiteln verzahnt werden kann.
-- Weitere konkrete Pilotprojekte für Klimaresilienz und lokale Infrastruktur sammeln.
+Baue vorhandene Ideen in README.md weiteraus.
+Nutze auch codex/daten/brain.md
+Wenn du fertig bist, erstelle dir in codex/daten/prompt.md den nächsten Prompt für dich selbst, zum weiterarbeiten im nächsten Schritt.
+Der Prompt soll wie folgt aussehen:
+Auszuführen im nächsten Schritt:
+
+Baue vorhandene Ideen in README.md weiteraus.
+Nutze auch codex/daten/brain.md
+Wenn du fertig bist, erstelle dir in codex/daten/prompt.md den nächsten Prompt für dich selbst, zum weiterarbeiten im nächsten Schritt.
+
