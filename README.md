@@ -1,6 +1,6 @@
 # 🌍 PLAN ZUR VERBESSERUNG DER WELT  
 *Entwickelt von einem interdisziplinären Team aus Philosophen, Wissenschaftlern, Soziologen und Psychologen*  
-*Version 0.1 – Entwurf für ein langfristiges, ethisches, wissenschaftlich fundiertes Transformationsprogramm*
+*Version 0.2 – Weiterentwicklung eines langfristigen, ethischen, wissenschaftlich fundierten Transformationsprogramms*
 
 ---
 
@@ -67,7 +67,18 @@
 
 ---
 
+## 8. 🌐 Universelle Gesundheitsversorgung und Pandemieprävention
+**Ziel:** Aufbau robuster, gerechter Gesundheitssysteme und weltweite Kooperation gegen zukünftige Pandemien.
+**Maßnahmen:**
+- Kostenfreier Basiszugang zu medizinischer Versorgung und Impfungen.
+- Globale Forschungsnetzwerke für offene Daten und schnelle Reaktionsstrategien.
+- Förderung lokaler Produktionskapazitäten für Medikamente und medizinische Ausrüstung.
+
+---
+
 ## 🌀 NÄCHSTE SCHRITTE
 1. Gründung einer globalen Denkfabrik **„Codex Mundi“** aus Philosophen, Soziologen, Technikern, Aktivisten und Künstlern.
 2. Auswahl von Pilotregionen für partizipative Umsetzung erster Maßnahmen.
 3. Aufbau eines transparenten, offenen Frameworks für Monitoring, Feedback und Weiterentwicklung.
+4. Einrichtung eines internationalen Gesundheitsfonds zur Unterstützung lokaler
+   Präventions- und Forschungsprojekte.
