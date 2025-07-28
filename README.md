@@ -86,3 +86,4 @@
    Präventions- und Forschungsprojekte.
 5. Pilotprojekte für klimaresiliente Gesundheits- und Infrastrukturzentren starten.
 6. Lokale Initiativen zu dezentraler Energie- und Wasserversorgung dokumentieren.
+7. Zusätzliche Pilotideen sammeln: modulare Recycling-Gesundheitsstationen, solare Wasseraufbereitung in Krisengebieten und kommunale Infrastruktur-Hubs mit Notfallversorgung.
